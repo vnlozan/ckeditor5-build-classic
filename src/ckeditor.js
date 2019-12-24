@@ -129,6 +129,7 @@ ClassicEditor.defaultConfig = {
 		items: [
 			'fontFamily',
 			'fontSize',
+			'fontColor',
 			'|',
 			'heading',
 			'alignment',
